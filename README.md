@@ -7,7 +7,11 @@
 ### - 🔭 I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
 ### - 🎨 Proficient in crafting responsive UIs with **Tailwind CSS** and **DaisyUI**.  
 ### - 🌱 Currently honing my skills in backend development and exploring advanced web technologies.  
-### - 🛠️ Always excited about solving problems and creating impactful solutions.  
+### - 🛠️ Always excited about solving problems and creating impactful solutions.
+
+## 🌟 GitHub Stats
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+
 
 ## 💼 Tech Stack
 **Frontend:**  
