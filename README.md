@@ -10,7 +10,7 @@
 ### - 🛠️ Always excited about solving problems and creating impactful solutions.
 
 ## 🌟 GitHub Stats
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif883&show_icons=true&theme=radical)  
 
 
 ## 💼 Tech Stack
