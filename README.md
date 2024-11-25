@@ -1,9 +1,9 @@
-<img src="">
+<img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/banner.png">
 
 ### 🌐 **Full-Stack Web Developer** | 🖥️ **Tech Enthusiast**  
 🚀 I’m passionate about building scalable, user-friendly web applications.  
 
-## 🌟 Current Stats
+## 🌟 GitHub Stats
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif883&show_icons=true&theme=radical)
 
 ## 💡 About Me
