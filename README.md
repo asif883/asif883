@@ -31,8 +31,8 @@
 
 
 ## 💬 Let's Connect! 
-- 💼 [LinkedIn](https://www.linkedin.com/in/asif-iqbal-3992a6287)  
-- 🌐 [Portfolio](https://YourPortfolioURL.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/asif-iqbal0)  
+- 🌐 [Portfolio](https://asif-iqbal.vercel.app)  
 
 ### 💡 "Code is like humor. When you have to explain it, it’s bad."  
 
