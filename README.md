@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/git%20banner.png">
+<img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/github%20Cover%20Image.png">
 
 ### 🌐 **Full-Stack Web Developer** | 🖥️ **Tech Enthusiast**  
 🚀 I’m passionate about building scalable, user-friendly web applications.  
