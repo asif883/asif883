@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif883&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
 ## 💡 About Me
-#### - 🔭 I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
+#### - 🔭 I specialize in the **MERN Stack (MongoDB, Express.js, Node.js, React.js, Next.js)**.  
 #### - 🎨 Proficient in crafting responsive UIs with **Tailwind CSS** and **DaisyUI**.  
 #### - 🌱 Currently honing my skills in backend development and exploring advanced web technologies.  
 #### - 🛠️ Always excited about solving problems and creating impactful solutions.
