@@ -4,8 +4,7 @@
 🚀 I’m passionate about building scalable, user-friendly web applications.  
 
 ## 🌟 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif883&theme=radical&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=asif883&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif883&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
