@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/cover.png" width="100%" alt="Asif Iqbal - Frontend Developer" />
 </p> -->
 
-<h2 align="center">  Building modern web experiences with clean code, thoughtful design, and a focus on performance.</h2>
+<h1 align="center">Building modern web experiences with clean code and thoughtful design.</h1>
 
 <p align="center">
   <strong>Frontend Developer | Shopify & Web Development</strong>
@@ -13,10 +13,10 @@
   Building modern web experiences with clean code, thoughtful design, and a focus on performance.
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://asif-iqbal.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/asif-iqbal0">LinkedIn</a> 
-</p>
+</p> -->
 
 ---
 
