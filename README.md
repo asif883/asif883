@@ -1,17 +1,17 @@
  <!-- Profile Cover -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/github%20Cover%20Image.png" width="100%" alt="Asif Iqbal - Frontend Developer" />
-</p>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/asif883/asif883/refs/heads/main/images/cover.png" width="100%" alt="Asif Iqbal - Frontend Developer" />
+</p> -->
 
-<h1 align="center">Asif Iqbal</h1>
+<h2 align="center">  Building modern web experiences with clean code, thoughtful design, and a focus on performance.</h2>
 
 <p align="center">
   <strong>Frontend Developer | Shopify & Web Development</strong>
 </p>
 
-<p align="center">
+<!-- <p >
   Building modern web experiences with clean code, thoughtful design, and a focus on performance.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://asif-iqbal.vercel.app">Portfolio</a> ·
